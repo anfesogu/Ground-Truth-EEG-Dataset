@@ -13,4 +13,4 @@ File: EEG_Synthetic_Generation.m
 
 File: Head_Model_10K_231E.mat
 
-Adapted from: Huang, Y., Parra, L.C., Haufe, S., 2016. The New York Head—A precise standardized volume conductor model for EEG source localization and tES targeting. NeuroImage 140, 150–162. https://doi:10.1016/j.neuroimage.2015.12.019. The original forward model is available at https://www.parralab.org/nyhead/
+Adapted from: Huang, Y., Parra, L.C., Haufe, S., 2016. The New York Head—A precise standardized volume conductor model for EEG source localization and tES targeting. NeuroImage 140, 150–162. https://doi.org/10.1016/j.neuroimage.2015.12.019. The original forward model is available at https://www.parralab.org/nyhead/
